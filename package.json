@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf ./node_modules/ && rm package-lock.json && rm -rf ./build && rm -rf ./dist"
   },
   "repository": {
     "type": "git",
@@ -24,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/milochen0418/ethereum-dapp-test-project/issues"
   },
-  "homepage": "https://github.com/milochen0418/ethereum-dapp-test-project#readme"
+  "homepage": "https://github.com/milochen0418/ethereum-dapp-test-project#readme",
+  "dependencies": {
+    "web3": "1.0.0-beta.37"
+  }
 }
