@@ -8,7 +8,8 @@ $ npm install -g solc
 $ npm install -g truffle
 $ npm install -g ganache-cli
 
-# The Steps to create etherem 
+# The Steps to create ethereum DApp project 
+## Step 1 
 $ truffle init
 
 
