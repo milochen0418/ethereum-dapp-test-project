@@ -12,4 +12,6 @@ $ npm install -g ganache-cli
 ## Step 1 
 $ truffle init
 
+## Step 2
+$ npm init
 

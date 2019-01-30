@@ -1,0 +1,28 @@
+{
+  "name": "ethereum-dapp-test-project",
+  "version": "1.0.0",
+  "description": "Ethereum DApp test project",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milochen0418/ethereum-dapp-test-project.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "DApp",
+    "test",
+    "project"
+  ],
+  "author": "Milo Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milochen0418/ethereum-dapp-test-project/issues"
+  },
+  "homepage": "https://github.com/milochen0418/ethereum-dapp-test-project#readme"
+}
