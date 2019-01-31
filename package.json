@@ -8,6 +8,9 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "truffle compile",
+    "rpc": "ganache-cli",
+    "migrate:development":"truffle migrate --network dev",
     "clean": "rm -rf ./node_modules/ && rm package-lock.json && rm -rf ./build && rm -rf ./dist"
   },
   "repository": {
